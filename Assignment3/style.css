@@ -1,0 +1,41 @@
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    right: 0px;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.main{
+    border: 3px solid grey;
+    height: 300px;
+    width: 400px;
+    position: relative;
+}
+
+.main1 input{
+    background-color: white;
+    border: 1px solid gray;
+    padding-left: 15px;
+}
+
+.main1 input:focus{
+    outline: none;
+}
+
+.main1{
+    position: relative;
+}
+
+.main1 img{
+    width: 11px;
+    position:absolute;
+    left: 4px;
+    top: 4px;
+}
