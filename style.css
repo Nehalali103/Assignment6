@@ -4,4 +4,9 @@ body{
 
 ul{
     list-style-type:circle;
+    
+}
+
+ul a{
+    text-decoration: none;
 }
